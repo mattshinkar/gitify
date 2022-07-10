@@ -24,3 +24,6 @@ gitify-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# actual build
+gitify
