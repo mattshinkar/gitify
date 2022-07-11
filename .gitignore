@@ -27,3 +27,6 @@ gitify-*.tar
 
 # actual build
 gitify
+
+# secret files not to be pushed
+/secret/*
